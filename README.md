@@ -1,7 +1,9 @@
 A responsive Book Website built with HTML, CSS, Bootstrap, JavaScript, and PHP.
 It allows users to browse, search, and view books, while the admin can add, edit, and manage the collection.
 
-🚀 Features
+
+
+Features
 
 User-friendly and responsive design (Bootstrap)
 
@@ -21,7 +23,9 @@ Backend: PHP
 
 Database: MySQL
 
-⚙️ Installation
+
+
+Installation
 
 Install XAMPP (or any PHP server).
 
@@ -33,11 +37,9 @@ Import database.sql file into bookdb.
 
 Start Apache & MySQL from XAMPP.
 
-Open in browser:
 
-http://localhost/book-website/
 
-📖 Usage
+Usage
 
 Users: Can browse and search books.
 
