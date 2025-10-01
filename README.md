@@ -15,7 +15,9 @@ Admin panel to manage books (add, edit, delete)
 
 PHP & MySQL powered backend
 
-🛠️ Technologies Used
+
+
+Technologies Used
 
 Frontend: HTML, CSS, Bootstrap, JavaScript
 
